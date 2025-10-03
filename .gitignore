@@ -1,1 +1,20 @@
+# Compiled class files
+*.class
 bin/
+out/
+
+# Logs
+*.log
+
+# Build directories (Maven / Gradle)
+target/
+build/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
